@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dcfdc7e5b63fc1ad6bf95135b275fdb",
+    "revision": "bfe8c65e3eadbbf1821b59164aabf99f",
     "url": "/git-book-list/index.html"
   },
   {
-    "revision": "56165bfe02cb48c5ce16",
+    "revision": "cb22403da98c8c1070c0",
     "url": "/git-book-list/static/css/main.897322b6.chunk.css"
   },
   {
-    "revision": "28dc1e8caae392ed82c2",
-    "url": "/git-book-list/static/js/2.df96256c.chunk.js"
+    "revision": "a567df932a665f782526",
+    "url": "/git-book-list/static/js/2.19e286a2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/git-book-list/static/js/2.df96256c.chunk.js.LICENSE.txt"
+    "url": "/git-book-list/static/js/2.19e286a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56165bfe02cb48c5ce16",
-    "url": "/git-book-list/static/js/main.9c8cf552.chunk.js"
+    "revision": "cb22403da98c8c1070c0",
+    "url": "/git-book-list/static/js/main.58da76d3.chunk.js"
   },
   {
     "revision": "fa3cf16755f443188e98",
