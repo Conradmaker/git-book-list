@@ -17,9 +17,9 @@ const initialState = [
     id: 0,
     name: "HTML",
     desc: "안녕하세요",
-    url: "https://app.gitbook.com/@conrad-maker/s/conrad-html/",
+    url: "https://app.gitbook.com/@conrad-maker/s/html/",
     thumnail:
-      "https://lh3.googleusercontent.com/proxy/_dfr1ge4QFwQDJWHQBNtq2f0hgb-6DsNm13lrKB1abcDN4ehj35b0iZPvmiMuzsy_nH3cyBnPnVamIHk0K7MRGE-CI1FcoMH3ZsI320c4cW0StU",
+      "https://www.htmlblender.com/wp-content/uploads/2019/01/Begini-Sejarah-HTML.png",
   },
   {
     id: 2,
@@ -33,8 +33,7 @@ const initialState = [
     name: "JAVA",
     desc: "BackEnd Stack",
     url: "https://app.gitbook.com/@conrad-maker/s/java/",
-    thumnail:
-      "https://lh3.googleusercontent.com/proxy/gyBlBOFFMYePZCary7h1AaVJ_TdTtuXpRzEWnH2jCH5Li-BNE3xEWt5aDJi6uXd_hZMOmLOalL-spF6tNg5dHEyLgLvOJYn5mJ_h_s2M6wm8-x62NIy0fJ1TIOXPiwl3DrgpVcgHXuyhgWINlJmMHxoidJRuYc6bGRlSU_Cxe18p_cdM2f6Tvb2m-ocwdjz-jeY0VLehQcDc4AAyvvna_z2TbreeUMIogy2vL0nMwYkI3AKnrOgzWqIsC8h77wH74GZRd1xGmJVdUp7tHy6042ySfJc",
+    thumnail: "https://lviv.itea.ua/wp-content/uploads/2016/03/java-2-min.png",
   },
   {
     id: 4,

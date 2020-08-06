@@ -38,7 +38,7 @@ const Intro = styled.section`
   color: white;
   background-size: cover;
   background-attachment: fixed;
-  background-image: url("https://pixelarity.com/items/demos/forty/cyan/images/banner.jpg");
+  background-image: url("https://ideastream-production.s3.amazonaws.com/uploads/2020/2/19/Book%20Shelves.jpg?null");
 `;
 export default function Main() {
   return (

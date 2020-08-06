@@ -59,8 +59,8 @@ const ItemBox = styled.article`
   justify-content: center;
   margin: 20px;
   border-radius: 5px;
-  width: 22%;
-  min-width: 250px;
+  max-width: 450px;
+  min-width: 350px;
   height: 350px;
   background: #fff;
   position: relative;
