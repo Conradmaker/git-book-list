@@ -1,6 +1,16 @@
 //깃허브 주소 객체로 받기
-
-let nextId = 1;
+const ADD_LIST = "pageItem/ADD_LIST";
+let nextId = 6;
+export const addList = (data) => ({
+  type: ADD_LIST,
+  body: {
+    id: nextId++,
+    name: data.name,
+    desc: data.desc,
+    url: data.url,
+    thumnail: data.thumnail,
+  },
+});
 
 const initialState = [
   {
@@ -45,6 +55,8 @@ const initialState = [
 
 export default function pageItem(state = initialState, action) {
   switch (action.type) {
+    case ADD_LIST:
+      return state.concat(action.body);
     default:
       return state;
   }
