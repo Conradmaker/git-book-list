@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0afab819b39221c9810f6279ef382ce",
+    "revision": "6dcfdc7e5b63fc1ad6bf95135b275fdb",
     "url": "/git-book-list/index.html"
   },
   {
