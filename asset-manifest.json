@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git-book-list/static/css/main.897322b6.chunk.css",
+    "main.js": "/git-book-list/static/js/main.9c8cf552.chunk.js",
+    "main.js.map": "/git-book-list/static/js/main.9c8cf552.chunk.js.map",
+    "runtime-main.js": "/git-book-list/static/js/runtime-main.f0633fc5.js",
+    "runtime-main.js.map": "/git-book-list/static/js/runtime-main.f0633fc5.js.map",
+    "static/js/2.df96256c.chunk.js": "/git-book-list/static/js/2.df96256c.chunk.js",
+    "static/js/2.df96256c.chunk.js.map": "/git-book-list/static/js/2.df96256c.chunk.js.map",
+    "index.html": "/git-book-list/index.html",
+    "precache-manifest.da5f756faceed2688e54356a059d91ea.js": "/git-book-list/precache-manifest.da5f756faceed2688e54356a059d91ea.js",
+    "service-worker.js": "/git-book-list/service-worker.js",
+    "static/css/main.897322b6.chunk.css.map": "/git-book-list/static/css/main.897322b6.chunk.css.map",
+    "static/js/2.df96256c.chunk.js.LICENSE.txt": "/git-book-list/static/js/2.df96256c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0633fc5.js",
+    "static/js/2.df96256c.chunk.js",
+    "static/css/main.897322b6.chunk.css",
+    "static/js/main.9c8cf552.chunk.js"
+  ]
+}
