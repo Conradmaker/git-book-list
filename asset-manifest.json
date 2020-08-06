@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/git-book-list/static/css/main.897322b6.chunk.css",
-    "main.js": "/git-book-list/static/js/main.58da76d3.chunk.js",
-    "main.js.map": "/git-book-list/static/js/main.58da76d3.chunk.js.map",
+    "main.js": "/git-book-list/static/js/main.e874a3e0.chunk.js",
+    "main.js.map": "/git-book-list/static/js/main.e874a3e0.chunk.js.map",
     "runtime-main.js": "/git-book-list/static/js/runtime-main.f0633fc5.js",
     "runtime-main.js.map": "/git-book-list/static/js/runtime-main.f0633fc5.js.map",
-    "static/js/2.19e286a2.chunk.js": "/git-book-list/static/js/2.19e286a2.chunk.js",
-    "static/js/2.19e286a2.chunk.js.map": "/git-book-list/static/js/2.19e286a2.chunk.js.map",
+    "static/js/2.d8b14b3b.chunk.js": "/git-book-list/static/js/2.d8b14b3b.chunk.js",
+    "static/js/2.d8b14b3b.chunk.js.map": "/git-book-list/static/js/2.d8b14b3b.chunk.js.map",
     "index.html": "/git-book-list/index.html",
-    "precache-manifest.09351442b51499f02be66b1b52e8e7f2.js": "/git-book-list/precache-manifest.09351442b51499f02be66b1b52e8e7f2.js",
+    "precache-manifest.cd27be8d8bf6f51c800568ed2ba8b9e4.js": "/git-book-list/precache-manifest.cd27be8d8bf6f51c800568ed2ba8b9e4.js",
     "service-worker.js": "/git-book-list/service-worker.js",
     "static/css/main.897322b6.chunk.css.map": "/git-book-list/static/css/main.897322b6.chunk.css.map",
-    "static/js/2.19e286a2.chunk.js.LICENSE.txt": "/git-book-list/static/js/2.19e286a2.chunk.js.LICENSE.txt"
+    "static/js/2.d8b14b3b.chunk.js.LICENSE.txt": "/git-book-list/static/js/2.d8b14b3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0633fc5.js",
-    "static/js/2.19e286a2.chunk.js",
+    "static/js/2.d8b14b3b.chunk.js",
     "static/css/main.897322b6.chunk.css",
-    "static/js/main.58da76d3.chunk.js"
+    "static/js/main.e874a3e0.chunk.js"
   ]
 }
