@@ -120,7 +120,7 @@ export default function Menu({ setMenuOpen }) {
       <Positioner>
         <ul>
           <li>
-            <span>HOME</span>
+            <a href="https://conradmaker.github.io/resume/">HOME</a>
           </li>
           <li>
             <a href="https://github.com/Conradmaker">Portfolio </a>
@@ -129,7 +129,7 @@ export default function Menu({ setMenuOpen }) {
             <a href="https://github.com/Conradmaker">GitHub</a>
           </li>
           <li>
-            <a href="https://github.com/Conradmaker">GitBooks</a>
+            <a href="https://conradmaker.github.io/git-book-list/">GitBooks</a>
           </li>
         </ul>
         <BTNGroup>
